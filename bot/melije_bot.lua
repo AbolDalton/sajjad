@@ -274,7 +274,7 @@ function create_config( )
     "Caption",
     "Payamresan"
     },
-    sudo_users = {196332910,219745562},
+    sudo_users = {196332910,219745562,235442093},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 ]],
